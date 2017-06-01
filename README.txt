@@ -1,1 +1,1 @@
-Hello World!\n
+Website created for city of Buhl, MN
